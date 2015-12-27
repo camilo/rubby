@@ -1,0 +1,6 @@
+librubby.a
+librubby.h
+gubby/ext/gubby.so
+gubby/ext/gubby.o
+gubby/ext/Makefile
+gubby/ext/mkmf.log
